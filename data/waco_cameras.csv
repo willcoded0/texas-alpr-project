@@ -1,0 +1,53 @@
+"osm_type","osm_id","osm_center_lat","osm_center_lon","camera:direction","camera:mount","camera:type","direction","man_made","manufacturer","manufacturer:wikidata","surveillance","surveillance:type","surveillance:zone"
+"node","13167015633",31.5185348,-97.1820338,NA,NA,"fixed","290","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13206074209",31.5238101,-97.1684607,NA,NA,"fixed","290","surveillance","Flock Safety","Q108485435",NA,"ALPR",NA
+"node","13278412097",31.519607,-97.1824441,NA,NA,"fixed","180","surveillance","Flock Safety","Q108485435",NA,"ALPR",NA
+"node","13278479828",31.5193141,-97.1818373,NA,NA,"fixed","200","surveillance","Flock Safety","Q108485435",NA,"ALPR",NA
+"node","13278484123",31.524424,-97.1702684,NA,NA,"fixed","40","surveillance","Flock Safety","Q108485435",NA,"ALPR",NA
+"node","13345638501",31.4795979,-97.1188531,NA,NA,"fixed","28-73","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13345646701",31.4794003,-97.1207251,NA,NA,"fixed","207-252","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13345978701",31.4622634,-97.1829729,NA,NA,"fixed","66-111","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13345980401",31.4659302,-97.1965651,NA,NA,"fixed","59-104","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13346319501",31.5051495,-97.1019546,NA,NA,"fixed","130-175","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13352078801",31.4584652,-97.1738984,NA,NA,"fixed","288-333","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356151801",31.45061,-97.2163493,NA,NA,"fixed","93-138","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356166101",31.4788222,-97.1981647,NA,NA,"fixed","185-229","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356239401",31.4831472,-97.1541402,NA,NA,"fixed","108","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356255601",31.4685329,-97.1810738,NA,NA,"fixed","153-198","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356262001",31.4636894,-97.1737078,NA,NA,"fixed","94-139","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356265701",31.4600228,-97.1747328,NA,NA,"fixed","349-34","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13356708801",31.4578561,-97.1738413,NA,NA,"fixed","181-226","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13387170001",31.4588953,-97.111133,NA,NA,"fixed","144","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13399175304",31.4710703,-97.2145574,NA,NA,"fixed","34","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13399178401",31.4801937,-97.2066666,NA,"pole","fixed","117","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13418176901",31.5393301,-97.2601727,NA,"pole","fixed","94","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13426916501",31.544904,-97.0625378,NA,NA,"fixed","102","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13427291601",31.4589636,-97.1705229,NA,"pole","fixed","23","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13434165644",31.4762074,-97.2034463,NA,NA,"fixed","20","surveillance","Flock Safety","Q108485435",NA,"ALPR",NA
+"node","13436230802",31.4790248,-97.119637,NA,NA,"fixed","130","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13453382701",31.4531264,-97.2044993,NA,NA,"fixed","203","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13461455201",31.4617984,-97.1713238,NA,NA,"fixed","264","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13468616301",31.5429521,-97.2665392,NA,NA,"fixed","299","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13546380101",31.4649136,-97.1198876,NA,"pole","fixed","197","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13611064901",31.4542632,-97.2150383,NA,NA,"fixed","17","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13975067401",31.457606,-97.1742073,NA,NA,"fixed","199","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","13978721309",31.485691,-97.263941,NA,"pole","fixed","240","surveillance","Flock Safety",NA,"public","ALPR","street"
+"node","14040362801",31.4833124,-97.1571431,NA,"pole","fixed","171","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14049127902",31.4798014,-97.1194635,NA,NA,"fixed","285","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14053798701",31.4786867,-97.125533,NA,NA,"fixed","299","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14074199001",31.5994781,-97.1080189,NA,"pole","fixed","359","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14077513701",31.4763975,-97.1236852,NA,NA,"fixed","300","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14081049601",31.6258264,-97.2602033,NA,NA,"fixed","359","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14088434101",31.5861645,-97.0791586,NA,NA,"fixed","121","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14090345552",31.5240921,-97.172339,NA,NA,NA,"170","surveillance",NA,NA,"public","ALPR",NA
+"node","14099973801",31.4840909,-97.1548493,NA,NA,"fixed","0","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14100001502",31.4840909,-97.1548493,NA,NA,"fixed","0","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14106438701",31.5873231,-97.1028561,NA,NA,"fixed","11","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14121025032",31.492032,-97.1232873,NA,NA,NA,"160","surveillance",NA,NA,"traffic","ALPR",NA
+"node","14121212401",31.6171885,-97.1003571,NA,NA,"fixed","37;162","surveillance","Genetec","Q30295174","public","ALPR","traffic"
+"node","14135972702",31.6031901,-97.1090934,NA,NA,"fixed","249","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14135974001",31.6035106,-97.1109772,NA,NA,"fixed","128","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14135974801",31.6045186,-97.110005,NA,NA,"fixed","203","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
+"node","14162788053",31.5625839,-97.1286573,"60;150;240;330","street_lamp","dome",NA,"surveillance",NA,NA,NA,"camera",NA
+"node","14162788067",31.5626584,-97.128631,"60;150;240;330","street_lamp","dome",NA,"surveillance",NA,NA,NA,"camera",NA
+"node","14176024001",31.5236862,-97.1701266,NA,NA,"fixed","245","surveillance","Flock Safety","Q108485435","public","ALPR","traffic"
